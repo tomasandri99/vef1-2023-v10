@@ -1,3 +1,20 @@
+# Battery Status API 
+
+## Um verkefnið
+
+Þetta verkefni er einfaldur vefur sem notar Battery Status API og er byggt á Create React App (CRA).
+
+# Notkun Virtual Keyboard API
+Verkefnið notast Battery Status API til sjá batterí stöðu tölvu.
+
+# Notkun Create React App (CRA)
+Þetta verkefni er byggt með því markmiði að nota CRA, sem er gagnlegt kerfi fyrir að byrja á vefverkefni með React.
+
+# Höfundur
+Nafn: [Tómas Andri Bjartsson]
+Netfang: [tab9@hi.is]
+Github: [https://github.com/tomasandri99/vef1-2023-v10.git]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
